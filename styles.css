@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.first-column{
+	width:200px;
+	text-align:center;
+}
+.last-column{
+	width:200px;
+	text-align:center
+}
+.middle-column{
+	text-align:center;
+	width:600px;
+}
